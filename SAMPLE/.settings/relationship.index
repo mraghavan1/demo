@@ -5,10 +5,6 @@
     "type" : "job"
   },
   "relatedItems" : [ {
-    "id" : "_9ZeHkDDUEeqhupXaVt4miQ",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
     "id" : "DQTechnical",
     "version" : "Latest",
     "type" : "routine"

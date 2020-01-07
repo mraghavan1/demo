@@ -29,19 +29,7 @@
     "version" : "Latest",
     "type" : "routine"
   }, {
-    "id" : "DemoRoutines",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
     "id" : "DqStringHandling",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "GetRandomPhoneNum",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "MDM",
     "version" : "Latest",
     "type" : "routine"
   }, {

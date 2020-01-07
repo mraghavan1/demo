@@ -80,5 +80,9 @@
     "id" : "TalendStringUtil",
     "version" : "Latest",
     "type" : "routine"
+  }, {
+    "id" : "_9ZeHkDDUEeqhupXaVt4miQ - MAYADUMP",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 } ]

@@ -93,21 +93,18 @@
     <elementParameter field="TEXT" name="FOOTER_LIBRARY" show="false" value=""/>
     <elementParameter field="TEXT" name="FOOTER_CODE" show="false" value=""/>
     <elementParameter field="TEXT" name="FOOTER_IMPORT" show="false" value=""/>
-    <routinesParameter id="_BzsnoJWBEd2-2urAiuZBEg" name="DataOperation"/>
-    <routinesParameter id="_B9YvIJWBEd2-2urAiuZBEg" name="Mathematical"/>
-    <routinesParameter id="_B9rqE5WBEd2-2urAiuZBEg" name="Numeric"/>
-    <routinesParameter id="_B9rqF5WBEd2-2urAiuZBEg" name="Relational"/>
-    <routinesParameter id="_B91bE5WBEd2-2urAiuZBEg" name="StringHandling"/>
-    <routinesParameter id="_B91bF5WBEd2-2urAiuZBEg" name="TalendDataGenerator"/>
-    <routinesParameter id="_B9-lAJWBEd2-2urAiuZBEg" name="TalendDate"/>
-    <routinesParameter id="_B9-lBJWBEd2-2urAiuZBEg" name="TalendString"/>
-    <routinesParameter id="_8qwkYFjNEdyj6eiqDt60Og" name="DemoRoutines"/>
-    <routinesParameter id="_HKXfQGIZEd26GZmhFZLTPA" name="GetRandomPhoneNum"/>
-    <routinesParameter id="_dbJKkDMXEeOTIuq5eWZPow" name="DQTechnical"/>
-    <routinesParameter id="_dbCc4DMXEeOTIuq5eWZPow" name="DataQuality"/>
-    <routinesParameter id="_dbFgMDMXEeOTIuq5eWZPow" name="DqStringHandling"/>
-    <routinesParameter id="_da9kYDMXEeOTIuq5eWZPow" name="MDM"/>
-    <routinesParameter id="_dbM08DMXEeOTIuq5eWZPow" name="SQLike"/>
+    <routinesParameter id="_VsVBwDDFEeqvgf2jTL3gNg" name="DataOperation"/>
+    <routinesParameter id="_VsnVoDDFEeqvgf2jTL3gNg" name="Mathematical"/>
+    <routinesParameter id="_VtITADDFEeqvgf2jTL3gNg" name="Numeric"/>
+    <routinesParameter id="_VtccEDDFEeqvgf2jTL3gNg" name="Relational"/>
+    <routinesParameter id="_VtyaUDDFEeqvgf2jTL3gNg" name="StringHandling"/>
+    <routinesParameter id="_VuNREDDFEeqvgf2jTL3gNg" name="TalendDataGenerator"/>
+    <routinesParameter id="_VungwDDFEeqvgf2jTL3gNg" name="TalendDate"/>
+    <routinesParameter id="_Vu-tIDDFEeqvgf2jTL3gNg" name="TalendString"/>
+    <routinesParameter id="_VrgiYDDFEeqvgf2jTL3gNg" name="DQTechnical"/>
+    <routinesParameter id="_Vqi5EDDFEeqvgf2jTL3gNg" name="DataQuality"/>
+    <routinesParameter id="_VrMZUDDFEeqvgf2jTL3gNg" name="DqStringHandling"/>
+    <routinesParameter id="_Vr4V0DDFEeqvgf2jTL3gNg" name="SQLike"/>
     <routinesParameter id="_VmwlQDDFEeqvgf2jTL3gNg" name="DataMasking"/>
     <routinesParameter id="_Vq1M8DDFEeqvgf2jTL3gNg" name="DataQualityDependencies"/>
     <routinesParameter id="_VvayADDFEeqvgf2jTL3gNg" name="TalendStringUtil"/>
@@ -240,7 +237,7 @@
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tDBOutput_1"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" show="false" value="REPOSITORY"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" show="false" value="_9ZeHkDDUEeqhupXaVt4miQ"/>
-    <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" show="false" value=""/>
+    <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" show="false" value="QUERYSTORE_TYPE : &quot;BUILT_IN&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" show="false" value=""/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:QUERYSTORE_TYPE" value="BUILT_IN"/>
     <elementParameter field="TECHNICAL" name="table.main.schema:SCHEMA_TYPE" show="false" value="REPOSITORY"/>
@@ -314,13 +311,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_89d77b38-a892-4c54-9b7b-4027e5fe9e01"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>LjPTDvKk/aST6ZX0gTS5GMn5wh6oDZRfqJCId7AaaFhePClTkT57461qMGGBmsecxYutlDG/0krb
-kQ5UltTQdA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_39a1a416-75ad-4eb1-ad60-e9ced1c3192b"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>IVbk5mMSDWHmqpCix6uoFOCQsaH1Of/nGVNHlBvxTpnzq0vv/k7mhCin2Ntb7B7IO9krcekOnvE9
-Xtl6NnGJ1g==</DigestValue></Reference></SignedInfo><SignatureValue>YU8xJNj/fQuFlI6+Z1HmZQNd4NqEbZHv4J0TgHBKEGFE/TRjETIEpQIcNczuAVs2kAZ3MmP89wxP
-drS+alBq27i7U9VEEZ/IjLi8+3AC9eo7e2zNSFNSKQy+2juJeylc+qp6JzP3Gd0dKkjYJbKA1PLM
-JOvHsW7z37/C0bXBaB78PH03gF19vY/yfmdO7529ar4tqv2+eQWb/jPnB5WG5iCNrQdJSbejt78m
-iu3POZVYvwKP9bsh0csH++W1h0b4fRTR0/a5YmFa3+LPWv17qHu80R5TMQAWAM2p2Jy5dGs+Lm8o
-0z32pgIiDR861BFnRBxDTQJclUAuyPx4JuYLrQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_f37865dc-a1b2-4352-aa8c-33a33513e688"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>XqxtnavVUikqqvgtuObObKLG0j5B6veKw0iyI5IupyORwXCQXS1GQXEHeST0ExVoXYUkenJKWoL2
+LhHdX6heBA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_6c81b6d9-c6f6-478e-96cf-28252185448f"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>SsO3akERIjeJH7Ad1J8iFX0PtclMO9pAAczD9zjRAyQtDrPmybRvAdwEMKTz9c4G6JpvS5o3GnDj
+iVo9H/2+xg==</DigestValue></Reference></SignedInfo><SignatureValue>pTYAFtJMqhsYkLJ/u/B0K6DoIs/EEcYuDY/jGJ7ZeHgxdsY05NUXjfHholSczJx9c1FA1q4xaNnw
+TYM35rx0HOjvvNOtio0jG95dliGzGRlRnY5wk+Te8KOI8aQSff7IC22pyEfl1fSbnoL8jY27hqQD
+h0XSYLssG8dVOY6wMoTg0FP4DHfxEl/Sw4XzvYYEsmt4sRIbOlf0FM1237X7jpeSKPZXJRYBVhZs
+ru+QqxGlnpnLLkWZ7N6TtGvUonZuO+lY4h96nbVNDEw7IStvCKgYbtkblbNRcdnmSPY8ZJi88U+D
+s8necoo7LXY6FId7NSsqCDG8VepARpidSz97uw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -342,4 +339,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_39a1a416-75ad-4eb1-ad60-e9ced1c3192b" Target="#_89d77b38-a892-4c54-9b7b-4027e5fe9e01"><Timestamp>2020-01-07 23:55:19</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_6c81b6d9-c6f6-478e-96cf-28252185448f" Target="#_f37865dc-a1b2-4352-aa8c-33a33513e688"><Timestamp>2020-01-08 00:27:41</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
